@@ -1,0 +1,11 @@
+Razones por las cuales el prototipo se realizó de la manera en que se hizo
+
+Nota: Este texto también será incluido en un bloc de notas del repositorio y parte de la sección README.
+
+Al analizar el sitio de la empresa, noté una imagen limpia y clara de ella. Me di cuenta de que es una empresa seria y que además intenta ser amigable con sus clientes, tienen un buen uso del color y por ello decidí respetar su colorimetría, que además, considero que debe ser un punto de partida.
+
+Mientras hacía la prueba ficticia, el mapa de ubicación me hizo tener problemas, pues estaba muy lento, probablemente producto de mi internet y se trabó un poco, es por eso que decidí omitir esa parte y poner directamente el mapa en la página principal de la cotización, además como usuaria, prefiero que el proceso sea más rápido en casos como este y las veces que he interactuado con sitios de este tipo (como los de entrega de comida), tienen la ubicación junto a un mapa. Lo considero también más accesible.
+
+Por último, decidí juntar ambas secciones (características e información de contacto) en una sola pantalla, nuevamente, por cuestiones de tiempo (para el usuario). Intenté que no se viera muy cargado, dejé que fuera lo más claro posible y el pop-up es para no crear una pantalla extra con información que puede ocupar menos de la mitad del espacio que requiere una pantalla completa. Sobre los correos, honestamente no tengo mucha experiencia, pero intenté que fuera lo más cercano a un correo normal de Google.
+
+Considero que es un diseño eficiente.
